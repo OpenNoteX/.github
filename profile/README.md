@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/adc36a4e-5e67-49e9-b390-101ac704782e" style="height:250px;width:250px;" />
+
 </p>
 
-# 🚀 OpenNoteX – The AI-Powered, Open-Source Note-Taking & Productivity Hub
+# 🚀 OpenNoteX - The AI-Powered, Open-Source Note-Taking & Productivity Hub
 
 ### OpenNoteX is an AI-enhanced, open-source note-taking application designed to revolutionize the way you take notes, track tasks, and build habits. Whether you're a student, a professional, or a productivity enthusiast, OpenNoteX provides a seamless, distraction-free experience with AI-powered insights to supercharge your workflow.
 
