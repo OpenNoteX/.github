@@ -10,7 +10,7 @@
 
 ### ✨ Features
 
-#### 📝 Smart Note-Taking
+### 📝 Smart Note-Taking
 
 - Effortlessly jot down ideas, meeting notes, or daily thoughts.
 
@@ -20,7 +20,7 @@
 
 - Markdown support for structured note-taking.
 
-#### ✅ Integrated TODOs
+### ✅ Integrated TODOs
 
 - Easily create, manage, and prioritize your tasks.
 
@@ -28,7 +28,7 @@
 
 - Set deadlines and reminders to stay on track.
 
-#### 🔥 Habit Streaks
+### 🔥 Habit Streaks
 
 - Build consistency with a powerful habit-tracking system.
 
@@ -36,7 +36,7 @@
 
 - AI-driven habit insights to improve productivity.
 
-#### 🛡️ Presenter Mode – Guard Your Notes During Screen Sharing
+### 🛡️ Presenter Mode – Guard Your Notes During Screen Sharing
 
 - Privacy-first approach: Hide sensitive notes while screen sharing or recording.
 
@@ -46,7 +46,7 @@
 
 - Seamlessly integrate presenter mode into your workflow without disruption.
 
-#### ⚡ AI-Powered Productivity
+### ⚡ AI-Powered Productivity
 
 - Intelligent auto-suggestions for tasks and notes.
 
@@ -54,7 +54,7 @@
 
 - Automated summaries to quickly grasp key points.
 
-#### 🏗️ Rust-Powered & Local-First
+### 🏗️ Rust-Powered & Local-First
 
 - Built with Rust for blazing-fast performance and security.
 
@@ -62,7 +62,7 @@
 
 - No reliance on external servers—your notes are yours. Unless you need sync enabled for multiple devices, in which case optional cloud sync can be configured.
 
-#### 🌟 Fully Open-Source
+### 🌟 Fully Open-Source
 
 - Built by the community, for the community.
 
